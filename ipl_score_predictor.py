@@ -1,6 +1,6 @@
 #import the libraries
 import math
-import numpy as pb
+import numpy as np
 import pickle
 import streamlit as st
 
